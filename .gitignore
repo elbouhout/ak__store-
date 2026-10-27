@@ -1,0 +1,4 @@
+.env
+storeak.db
+node_modules/
+npm-debug.log*
